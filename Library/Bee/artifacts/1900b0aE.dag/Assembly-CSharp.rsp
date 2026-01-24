@@ -350,6 +350,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/SceneChange.cs"
 "Assets/SpeedTrigger.cs"
 "Assets/ThirdPart/Mini First Person Controller/Scripts/Components/Crouch.cs"
 "Assets/ThirdPart/Mini First Person Controller/Scripts/Components/FirstPersonAudio.cs"
@@ -358,6 +359,7 @@
 "Assets/ThirdPart/Mini First Person Controller/Scripts/Components/Zoom.cs"
 "Assets/ThirdPart/Mini First Person Controller/Scripts/FirstPersonLook.cs"
 "Assets/ThirdPart/Mini First Person Controller/Scripts/FirstPersonMovement.cs"
+"Assets/Trampoline1.cs"
 -langversion:9.0
 
 /deterministic
