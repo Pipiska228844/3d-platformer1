@@ -16,7 +16,7 @@ public class Enemy : MonoBehaviour
     transform.LookAt(target.position);
  }
 
-   private void OntriggerEnter(Collider other)
+   private void OnTriggerEnter(Collider other)
 
  {
     Player player = other.GetComponent<Player>();
