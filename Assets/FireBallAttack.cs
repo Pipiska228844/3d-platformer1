@@ -11,7 +11,7 @@ public class FireBallAttack : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(0))
         {
-            Instantiate(fireballprefab, attackPoint.position, attackPoint.rotation);
+            Instantiate(fireballPrefab, attackPoint.position, attackPoint.rotation);
 
         }
     }

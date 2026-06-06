@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639145267605290328
+      ticks: 639163417207717715
     m_Hash: 1179235663
   m_LockFileStatus:
     m_FilePath: C:/Users/Algo/Documents/GitHub/3d-platformer1/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639145267605290328
+      ticks: 639163417207728630
     m_Hash: 4124369080
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -3397,6 +3397,8 @@ m_ResolvedPackages:
     - 1.15.1
     - 1.15.2
     - 1.16.0
+    - 1.17.0
+    - 1.18.0
     compatible:
     - 1.4.0
     - 1.4.1

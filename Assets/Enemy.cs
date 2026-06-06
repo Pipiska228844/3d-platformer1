@@ -21,7 +21,7 @@ public class Enemy : MonoBehaviour
  {
     Player player = other.GetComponent<Player>();
 
-    player.TakeDamage(playerDamage);
+    player.Takedamage(playerDamage);
  }
 
 }
